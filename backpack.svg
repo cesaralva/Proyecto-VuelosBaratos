@@ -1,0 +1,12 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M26.8036 12.4008C26.8036 12.4008 29.316 4 34.7752 4C40.2344 4 42.6624 12.4008 42.6624 12.4008H26.8036Z" stroke="#270570" stroke-width="3" stroke-linecap="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7627 34.2178C10.8027 34.2178 9.21379 32.8595 9.21379 31.184L9.1377 21.6272L9.21379 15.0034C9.21379 13.3278 10.8027 11.9695 12.7627 11.9695H56.5325C58.4925 11.9695 60.0814 13.3278 60.0814 15.0034V31.184C60.0814 32.8595 58.4925 34.2178 56.5325 34.2178H39.9252V28.4829C39.9252 27.1116 38.8136 26 37.4423 26H32.4833C31.1121 26 30.0005 27.1116 30.0005 28.4828V34.2178H12.7627Z" fill="#FFE3E0"/>
+<path d="M9.21379 31.184C9.21379 32.8595 10.8027 34.2178 12.7627 34.2178H30.0004M9.1377 21.6272L9.21379 15.0034C9.21379 13.3278 10.8027 11.9695 12.7627 11.9695H56.5325C58.4925 11.9695 60.0814 13.3278 60.0814 15.0034V31.184C60.0814 32.8595 58.4925 34.2178 56.5325 34.2178H40.5004" stroke="#270570" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M40.5527 34H58V66C58 68.2091 56.2091 70 54 70H16C13.7909 70 12 68.2091 12 66V34H29.7775" fill="white"/>
+<path d="M40.5527 34H58V66C58 68.2091 56.2091 70 54 70H16C13.7909 70 12 68.2091 12 66V34H29.7775" stroke="#270570" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.6007 57.5306H28.0442" stroke="#270570" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.6007 62.2389H28.0442" stroke="#270570" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect width="9.92467" height="14.8322" rx="2.48285" transform="matrix(-1 0 0 1 40.2321 26.8018)" fill="white" stroke="#270570" stroke-width="3"/>
+<path d="M58 48H64V61C64 63.2091 62.2091 65 60 65H58V48Z" fill="white" stroke="#270570" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M6 48H12V65H10C7.79086 65 6 63.2091 6 61V48Z" fill="white" stroke="#270570" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

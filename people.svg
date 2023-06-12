@@ -1,0 +1,14 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="36" cy="36" r="32" fill="white"/>
+<path d="M36 4C33.6414 4 31.3424 4.25515 29.1291 4.73935C14.7572 7.88352 4 20.6859 4 36C4 53.6724 18.3276 68 36 68C53.6724 68 68 53.6746 68 36" stroke="#270570" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M48 6C52.606 7.7685 56.6984 10.5249 60 14" stroke="#270570" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M31.5908 42.1836C31.5908 36.9962 27.0809 32.7909 21.5177 32.7909C15.9545 32.7909 11.4446 36.9962 11.4446 42.1836" fill="white"/>
+<path d="M31.5908 42.1836C31.5908 36.9962 27.0809 32.7909 21.5177 32.7909C15.9545 32.7909 11.4446 36.9962 11.4446 42.1836" stroke="#270570" stroke-width="2.83333" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22 31.5813C25.0518 31.5813 27.5 29.0864 27.5 26.0407C27.5 22.995 25.0518 20.5001 22 20.5001C18.9482 20.5001 16.5 22.995 16.5 26.0407C16.5 29.0864 18.9482 31.5813 22 31.5813Z" fill="white" stroke="#270570" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M60.304 41.0001C60.304 36.0295 55.9826 32.0001 50.652 32.0001C45.3213 32.0001 41 36.0295 41 41.0001" fill="white"/>
+<path d="M60.304 41.0001C60.304 36.0295 55.9826 32.0001 50.652 32.0001C45.3213 32.0001 41 36.0295 41 41.0001" stroke="#270570" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M50.2061 31.0556C53.1885 31.0556 55.5803 28.6175 55.5803 25.642C55.5803 22.6664 53.1885 20.2284 50.2061 20.2284C47.2237 20.2284 44.8318 22.6664 44.8318 25.642C44.8318 28.6175 47.2237 31.0556 50.2061 31.0556Z" fill="white" stroke="#270570" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M49 52.0003C49 45.4458 43.1797 40.1323 36 40.1323C28.8203 40.1323 23 45.4458 23 52.0003" fill="#CBF6EC"/>
+<path d="M49 52.0003C49 45.4458 43.1797 40.1323 36 40.1323C28.8203 40.1323 23 45.4458 23 52.0003" stroke="#270570" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M36 39.39C39.5742 39.39 42.5 36.5201 42.5 32.945C42.5 29.3699 39.5742 26.5 36 26.5C32.4258 26.5 29.5 29.3699 29.5 32.945C29.5 36.5201 32.4258 39.39 36 39.39Z" fill="#CBF6EC" stroke="#270570" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
